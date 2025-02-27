@@ -8,7 +8,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
-Simple casino games to play when you're bored or simply wanting to learn from.
+Simple casino games to play when you're bored or simply seeking to learn from them.
 
 </div>
 
