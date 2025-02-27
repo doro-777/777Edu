@@ -13,35 +13,19 @@
 ## 🎯 What's This About?
 Ever thought learning Python could be as fun as playing games? That's exactly what we do here! 777Edu is a collection of casino-themed games that teach you Python programming - brought to you by the team behind Doro777.
 
-## 🎮 Why Learn With Us?
+## 🎮 Why Learn from 777Edu?
 * 🐍 Learn Python while having fun
 * 🎰 Build your own casino games from scratch
 * 🎲 Understand probability and game logic
 * 💻 Perfect for beginners and intermediate coders
 * 🎪 Great projects for your portfolio
 
-## 🎪 Our Games & Tutorials
+## 🎪 Our Games
 
 ### 🎲 Available Games
-* 🎯 Simple Dice Roller
+* 🎲 Simple Dice Roller
 * 🃏 Blackjack
 * 🎰 Basic Slot Machine
-* 🎲 Craps Simulator
-
-Each game comes with:
-* 📝 Step-by-step coding tutorials
-* 💡 Explained concepts
-* 🔧 Customization guides
-* 🚀 Challenge exercises
-
-## 🎓 Learning Path
-
-| Level | Project | Skills Learned |
-|-------|---------|----------------|
-| Beginner | Dice Roller | Basic Python, Random Module |
-| Easy | High-Low Game | Conditionals, Loops |
-| Intermediate | Blackjack | Classes, Functions |
-| Advanced | Slot Machine | OOP, GUI (Tkinter) |
 
 ## 🎪 Quick Start
 1. Clone this repo
@@ -51,13 +35,10 @@ Each game comes with:
 
 ## 🌟 Coming Soon
 
-* 🎮 More game tutorials
-* 📱 GUI versions of all games
-* 🌐 Multiplayer implementations
-* 📺 Video tutorials
+* 🎮 More game
 
 ## 🤝 Contributing
-Got a cool game idea or tutorial? Join our community! Check out our contribution guidelines.
+Please do report bugs!
 
 ---
 
