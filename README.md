@@ -2,52 +2,41 @@
 
 ![777Edu Banner](https://github.com/doro-777/777Edu/blob/main/banner.png?raw=true)
 
-# 🎲 777Edu - Learn Python Through Casino Games
+# 🎲 777Edu - Example Casino Games [Python]
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
+Simple casino games to play when you're bored or simply wanting to learn from.
+
 </div>
 
-## 🎯 What's This About?
-Ever thought learning Python could be as fun as playing games? That's exactly what we do here! 777Edu is a collection of casino-themed games that teach you Python programming - brought to you by the team behind Doro777.
+## 🎮 Games We Have
 
-## 🎮 Why Learn from 777Edu?
-* 🐍 Learn Python while having fun
-* 🎰 Build your own casino games from scratch
-* 🎲 Understand probability and game logic
-* 💻 Perfect for beginners and intermediate coders
-* 🎪 Great projects for your portfolio
+### 🎲 Basic Games
+* Dice Roll - Roll some dice, bet on numbers
+* High-Low - Guess if the next card is higher or lower
+* Blackjack - Classic 21, you vs dealer
+* Slots - Simple 3-reel slot machine
+* And many more but I am too lazy to type it all out
 
-## 🎪 Our Games
+### 🎯 How to Play
+1. Clone or Download this entire thing as Zip File
+2. Make sure you have Python downloaded
+3. type in terminal/console >python thegameyouwanthere.py
+4. Enjoy!
 
-### 🎲 Available Games
-* 🎲 Simple Dice Roller
-* 🃏 Blackjack
-* 🎰 Basic Slot Machine
 
-## 🎪 Quick Start
-1. Clone this repo
-2. Pick a game from our tutorials
-3. Follow along and code
-4. Have fun learning!
-
-## 🌟 Coming Soon
-
-* 🎮 More game
-
-## 🤝 Contributing
-Please do report bugs!
+### 🎮 Future Plans
+* Even more games
 
 ---
 
 <div align="center">
 
-### 🎲 Learn • Code • Play 🎲
+Made by Doro777.
 
-[Tutorials](https://github.com/777Edu/tutorials) • [Discord](https://discord.gg/777edu) • [Contact Us](mailto:777edu.team@gmail.com)
-
-*Created by the Doro777 Team - Transforming Gaming into Learning*
+[Download Games](https://github.com/777Edu/games) • [Report Bugs](https://github.com/777Edu/issues)
 
 </div>
