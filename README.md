@@ -1,6 +1,6 @@
 <div align="center">
 
-![777Edu Banner]([https://github.com/777Edu/.github/blob/main/banner.png?raw=true](https://github.com/doro-777/777Edu/blob/main/banner.png?raw=true)
+![777Edu Banner](https://github.com/doro-777/777Edu/blob/main/banner.png?raw=true)
 
 # 🎲 777Edu - Learn Python Through Casino Games
 
