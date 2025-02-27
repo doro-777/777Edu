@@ -37,6 +37,6 @@ Simple casino games to play when you're bored or simply wanting to learn from.
 
 Made by Doro777.
 
-[Download Games](https://github.com/777Edu/games) • [Report Bugs](https://github.com/777Edu/issues)
+[Report Bugs](https://github.com/777Edu/issues)
 
 </div>
